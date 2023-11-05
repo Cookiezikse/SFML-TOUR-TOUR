@@ -1,0 +1,83 @@
+// NOM TYPE ATTACK PRECISION USE SPECIAL 
+"Pistolet-eau","Water",45,95,12,1
+"TouchGrass","Grass",30,80,18,1
+"Feu-de-bois","Fire",50,92,14,1
+"Plop","Water",35,88,16,0
+"GREEEEEEEEEEEN","Grass",999,999,999,0
+"Souffle-feu","Fire",45,90,12,0
+"LeafySplash", "Grass", 40, 90, 15,0
+"AquaBlast", "Wate", 55, 85, 12,0
+"InfernoDance", "Fire", 60, 80, 10,1
+"MudPie", "Water", 35, 95, 18,0
+"ToastyRoots", "Grass", 50, 88, 14,0
+"SteamyShenanigan", "Water", 45, 92, 16,0
+"FlameFandango", "Fire", 48, 87, 13,0
+"GrassyGiggle", "Grass", 42, 93, 17,1
+"Splasharoo", "Water", 38, 91, 19,0
+"Firecracker", "Fire", 58, 84, 11,0
+"LawnmowerLunge", "Grass", 47, 89, 15,1
+"GeyserGiggle", "Water", 52, 86, 13,0
+"FieryFrisbee", "Fire", 55, 83, 12,0
+"DandelionDrench", "Grass", 44, 90, 16,0
+"HydroHiccups", "Water", 40, 91, 14,0
+"EmberEruption", "Fire", 62, 82, 11,0
+"TumbleweedTornado", "Grass", 49, 88, 17,1
+"SplashySpectacle", "Water", 57, 85, 10,1
+"LeafyLullaby", "Grass", 46, 92, 18,0
+"BlazingBanjo", "Fire", 60, 81, 9,0
+"Pistolet-eau","Water",45,95,12,1
+"Flamestrike","Fire",50,90,10,0
+"Leafstorm","Grass",55,85,15,0
+"Thunderbolt","Electric",48,92,11,0
+"Ice Shard","Ice",42,98,13,1
+"Fist Punch","Fight",60,80,8,0
+"Toxic Mist","Poison",38,96,14,0
+"Earthquake","Ground",65,75,9,1
+"Aerial Slash","Flying",52,88,12,0
+"Psycho Blast","Psychic",58,82,11,1
+"Bug Bite","Bug",47,93,14,0
+"Rockslide","Rock",53,87,12,0
+"Spectral Strike","Ghost",44,94,11,1
+"Steel Strike","Steel",49,91,10,0
+"Shadow Claw","Dark",54,86,13,0
+"Fairy Dance","Fairy",46,89,13,1
+"Dragon Breath","Dragon",51,84,14,1
+"Hydro Pump","Water",60,85,9,1
+"Inferno","Fire",65,80,8,0
+"Vine Whip","Grass",45,95,12,0
+"Electric Shock","Electric",55,85,13,0
+"Icy Blast","Ice",42,98,11,0
+"Karate Chop","Fight",58,82,10,1
+"Venom Strike","Poison",40,90,14,1
+"Tremor Strike","Ground",68,72,9,1
+"Sky Dive","Flying",50,88,12,0
+"Bug Swarm","Bug",48,92,13,0
+"Stone Edge","Rock",53,87,11,0
+"Spirit Strike","Ghost",43,93,12,1
+"Iron Head","Steel",52,91,10,1
+"Dark Pulse","Dark",56,86,13,0
+"Moonlight Beam","Fairy",47,89,12,0
+"Dragon Rage","Dragon",59,84,11,1
+"Surf","Water",55,90,10,1
+"Fire Blast","Fire",70,80,8,0
+"Solar Beam","Grass",60,85,11,1
+"Thunderstorm","Electric",62,82,9,0
+"Blizzard","Ice",50,95,12,0
+"Karate Kick","Fight",65,78,10,0
+"Toxic Cloud","Poison",42,92,13,1
+"Quicksand","Ground",70,72,8,1
+"Hurricane","Flying",58,88,11,0
+"Mind Crush","Psychic",68,75,9,1
+"Bug Swarm","Bug",46,94,12,1
+"Stone Throw","Rock",54,91,10,0
+"Haunting Wail","Ghost",44,93,13,0
+"Steel Claw","Steel",57,87,10,1
+"Dark Void","Dark",48,89,12,0
+"Moonblast","Fairy",53,84,11,1
+"Dragon Roar","Dragon",64,86,9,0
+"Pepe the Frog","Water",50,90,15,0
+"Dogecoin","Electric",40,80,10,1
+"Keyboard Cat","Normal",60,70,5,0
+"Nyan Cat","Psychic",55,85,14,1
+"Rick Astley","Normal",70,65,8,0
+"Distracted Boyfriend","Psychic",45,95,7,1

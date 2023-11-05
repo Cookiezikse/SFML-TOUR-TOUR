@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Maps">
+      <UniqueIdentifier>{7dcc30a1-3e3c-4ae6-aa7d-2e581a0a1819}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Fonts">
+      <UniqueIdentifier>{352e1ef9-8616-4201-86a9-a76e82c13ac5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{f4d1a9bc-595f-43ac-89e3-85cebe021910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Player">
+      <UniqueIdentifier>{710114cf-143f-467f-b707-480b70821a73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Enemy">
+      <UniqueIdentifier>{f2e68b50-a481-4bd3-b8a4-7cf7ade8e91b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sounds">
+      <UniqueIdentifier>{1a6dd6f7-53c5-4a8b-8764-3d077c33b1a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Datas">
+      <UniqueIdentifier>{49c7a473-633c-4cff-b9e1-432c2f42174e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Pause.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Attack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\turnTurn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Attack_turn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Success.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Pause.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SettingsMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Attack_turn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SoundManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Attack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PokemonType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\turnTurn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Success.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\tiles\tiles.png">
+      <Filter>Resource Files\Maps</Filter>
+    </Image>
+    <Image Include="assets\player\img-player.png">
+      <Filter>Resource Files\Images\Player</Filter>
+    </Image>
+    <Image Include="assets\enemy\img-enemy.png">
+      <Filter>Resource Files\Images\Enemy</Filter>
+    </Image>
+    <Image Include="assets\icon\donuts.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\tiles\map_1.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\main_map.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_2.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_3.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_4.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_5.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_6.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_7.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+    <None Include="assets\tiles\map_8.json">
+      <Filter>Resource Files\Maps</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="assets\Datas\attacks.txt">
+      <Filter>Resource Files\Datas</Filter>
+    </Text>
+    <Text Include="assets\Datas\characters.txt">
+      <Filter>Resource Files\Datas</Filter>
+    </Text>
+    <Text Include="assets\Datas\player.txt">
+      <Filter>Resource Files\Datas</Filter>
+    </Text>
+    <Text Include="assets\Datas\success.txt">
+      <Filter>Resource Files\Datas</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="assets\sounds\music_menu.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
+    <Media Include="assets\sounds\navigation.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
+    <Media Include="assets\sounds\navigation_enter.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\fonts\monogram.ttf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
